@@ -1,4 +1,4 @@
-// == STUDENT SCHEDULE CARD + EDITOR ==
+// == STUDENT SCHEDULE CARD + EDITOR == 2
 (function (LitElement) {
     const html = LitElement.prototype.html;
     const css = LitElement.prototype.css;
